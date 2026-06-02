@@ -1,4 +1,4 @@
-# System Design — Encaminhamento de Proposta de Crédito PJ
+# System Design — Encaminhamento de Proposta de Crédito
 
 ## Contexto
 
