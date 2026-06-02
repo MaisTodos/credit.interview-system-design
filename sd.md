@@ -20,7 +20,7 @@ A empresa possui dois fundos parceiros: **Fundo Alpha** e **Fundo Beta**. O mode
 
 - **Fundo Beta** — é o fundo de fallback. Caso o Fundo Alpha esteja indisponível após tentativas de envio, a proposta deve ser automaticamente encaminhada ao Beta. A integração com o Beta funciona por **polling**: é necessário consultar periodicamente a API deles para verificar se o status da proposta foi atualizado.
 
-Ao final do processo — independentemente de qual fundo processou a proposta — o **cliente PJ deve ser notificado** sobre o resultado.
+Ao final do processo — independentemente de qual fundo processou a proposta — o **cliente deve ser notificado** sobre o resultado.
 
 ---
 
